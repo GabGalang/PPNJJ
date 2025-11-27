@@ -1,6 +1,6 @@
 # PPNJJ
 
-##OBJECTIVE
+## OBJECTIVE
 
 - Display random quote locally(Console or GUI)
 - Serve quite via **Flask API** and **ngrok** for other teams
