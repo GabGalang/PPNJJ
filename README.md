@@ -8,3 +8,4 @@
 - Make the API consumable by other teams
 - Utilize **Github** and **Git** for collaborations
 - Make README.md on your Github with proper documentation on how your app works and how to use it
+
