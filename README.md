@@ -12,6 +12,10 @@
 ### Random Quote Generator App
 ##### Introduction
 - This app displays random quotes with the use of **Flask API** and **ngrok** for other teams to use
+  
 ##### Installation and How to Use Instructions
 - Install our Application and Run on Vscode
 - Open terminal and run the command "Api.py" and "ngrok http 5000" on seperate terminals
+
+##### How it works
+- By using **ngrok**, we obtained a link that creates a random Quote Api
