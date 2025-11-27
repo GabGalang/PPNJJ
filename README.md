@@ -1,6 +1,6 @@
-# PPNJJ Team Activity: Random Quote Generator App(with OOP & API)
+### PPNJJ Team Activity: Random Quote Generator App(with OOP & API)
 
-## OBJECTIVES
+##### OBJECTIVES
 
 - Display random quote locally(Console or GUI)
 - Serve quite via **Flask API** and **ngrok** for other teams
