@@ -9,3 +9,10 @@
 - Utilize **Github** and **Git** for collaborations
 - Make README.md on your Github with proper documentation on how your app works and how to use it
 
+### Random Quote Generator App
+##### Introduction
+- This app displays random quotes with the use of Flask API and ngrok for other teams to use
+##### Installation Instructions
+- Install our Application and Run on Vscode
+##### A Guide on how to use
+- 
